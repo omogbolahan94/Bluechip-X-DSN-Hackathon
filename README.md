@@ -1,2 +1,2 @@
 ### Competition Source
-* (kaggle)[https://www.kaggle.com/competitions/bluechip-summit-credit-worthiness-prediction/overview]
+* [https://www.kaggle.com/competitions/bluechip-summit-credit-worthiness-prediction/overview](kaggle)
